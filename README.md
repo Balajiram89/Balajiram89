@@ -2,7 +2,7 @@
 
 ### Senior Data Analyst
 
-- 🔭 I'm currently working on **Skilled in Big Query, Power BI, Macros,Tableau, SQL, and advanced Excel**
+- 🔭 I'm currently working on **Skilled in Big Query, Microsoft Fabric, Power BI, Macros,Tableau, SQL, and advanced Excel**
 
 - 🌱 I'm currently learning **Big Data, Pyspark, DataBricks**
 
